@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/osrs-path-generator/static/css/main.3809f931.css",
+    "main.js": "/osrs-path-generator/static/js/main.bdb0ee3f.js",
+    "static/js/787.4e537a88.chunk.js": "/osrs-path-generator/static/js/787.4e537a88.chunk.js",
+    "index.html": "/osrs-path-generator/index.html",
+    "main.3809f931.css.map": "/osrs-path-generator/static/css/main.3809f931.css.map",
+    "main.bdb0ee3f.js.map": "/osrs-path-generator/static/js/main.bdb0ee3f.js.map",
+    "787.4e537a88.chunk.js.map": "/osrs-path-generator/static/js/787.4e537a88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3809f931.css",
+    "static/js/main.bdb0ee3f.js"
+  ]
+}
